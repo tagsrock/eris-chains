@@ -5,7 +5,7 @@
 # Requires Version (handled by eris-cli).
 
 [service]
-image          = "quay.io/eris/erisdb:arm-alpine-version"
+image          = "quay.io/eris/erisdb:arm-version"
 data_container = true
 ports          = [ "1337", "46656", "46657" ]
 entry_point    = "erisdb-wrapper"
