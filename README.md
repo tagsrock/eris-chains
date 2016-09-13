@@ -1,7 +1,5 @@
 # eris-chains
+**DEPRECATED** as of the upcoming v0.12.0 release of [eris-cli](https://github.com/eris-ltd/eris-cli)
 Default Chain Definition Files for the Eris Platform 
 
-WARNING: Changing any of the `.toml` files in this repo will cause eris-cli tests (`/initialize`) to fail. 
-
-Files here are used for testing against toadserver as part of the eris-cli init sequence, and as backup if the toadserver is down.
 
